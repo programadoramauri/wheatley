@@ -1,0 +1,19 @@
+{
+  "name": "wheatley",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programadoramauri/wheatley.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programadoramauri/wheatley/issues"
+  },
+  "homepage": "https://github.com/programadoramauri/wheatley#readme"
+}
